@@ -1,0 +1,6 @@
+﻿  Project Bank Extension.cpp
+C:\Users\User\source\repos\Project Bank Extension\Project Bank Extension\Project Bank Extension.cpp(34,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\User\source\repos\Project Bank Extension\Project Bank Extension\Project Bank Extension.cpp(413,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+C:\Users\User\source\repos\Project Bank Extension\Project Bank Extension\Project Bank Extension.cpp(434,1): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+C:\Users\User\source\repos\Project Bank Extension\Project Bank Extension\Project Bank Extension.cpp(383,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+  Project Bank Extension.vcxproj -> C:\Users\User\source\repos\Project Bank Extension\x64\Debug\Project Bank Extension.exe
